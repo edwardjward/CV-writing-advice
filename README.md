@@ -1,4 +1,4 @@
-<h2>How to prepare your CV to apply for your first Junior Developer job<h2>
+<h2>Tips about preparing your CV for your first Junior Developer job
   
 There is no secret sauce to writing a CV, no standard format and no rules you must apply. But, there are guidelines that certain industries and job roles would prefer to see followed on your CV, or at least guidelines that will help you get into their heads and make them want to meet you. 
 
