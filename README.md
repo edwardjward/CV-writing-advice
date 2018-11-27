@@ -2,18 +2,18 @@
   
 There is no secret sauce to writing a CV, no standard format and no rules you must apply. But, there are guidelines that certain industries and job roles would prefer to see followed on your CV, or at least guidelines that will help you get into their heads and make them want to meet you. 
 
-Writing a CV is as much a psychological game as it is a story of your career. It’s psychological because you are essentially selling yourself off a piece of paper, you have to make the readers time count, more often than not, whilst competing against others who may be in a stronger position than you. 
+Writing a CV is as much a psychological game as it is a story of your career. It’s psychological because you are essentially selling yourself from a piece of paper, you have to make the readers time count, more often than not, whilst competing against others who may be in a stronger position than you. 
 
-So please take time writing your CV.  Like a web product, you feel there are always improvements to be made, but get the basics right and things should start working for you. In this instance we’re going to look at preparing your CV for a Junior Developer position having just finished Le Wagon. You can start applying for jobs from Week 7 and we are seeing an increasing amount of students getting interviews and even job offers before the end of the batch. Believe in yourself, you are a full-stack developer now! 
+So please take time writing your CV.  Like a web product, you feel it's never perfect, but get the basics right and things should start working for you. In this instance we’re going to look at preparing your CV for a Junior Developer position having just finished Le Wagon. You can start applying for jobs from week 7 and we are seeing an increasing amount of students getting interviews and even job offers before the end of the batch. **Believe in yourself, you are a full-stack developer now!**
 
 <h1>Lets Go</h1>
 
-A great CV will improve your chances of getting interviews much faster. Get that first half page nailed! Your first half page, or more, needs to stand out with the right information to hook the reader and leave them thinking “I really want to interview this candidate”. So clearly this is goingt to be filled with the most relevant information regarding a job a Junior Developer...your bootcamp, tech skills, projects and any other coding expreience.
+A great CV will improve your chances of getting interviews much faster. **Get that first half page nailed!** Your first half page, or more, needs to stand out with the right information to hook the reader and leave them thinking “I really want to interview this candidate”. So clearly this is going to be filled with the most relevant information regarding a job as a Junior Developer...your bootcamp, tech skills, projects and any other coding expreience.
 
 <h1>Best Practices and Guidelines</h1>
 
 <h3>Keep it tidy</h3>
-Use headings and highlight key words with bold or italics. Use the space efficiently and don’t cram too much in. It’s good the leave the reader asking questions about you as well. 
+Use headings and highlight key words with **bold** or *italics*. Use the space efficiently and don’t cram too much in. It’s good to the leave the reader asking questions about you as well. 
 
 <h3>Keep it Concise</h3>
 According to the recruitment industry the average reading time is 6 seconds. MAKE THEIR TIME COUNT!
@@ -22,28 +22,27 @@ According to the recruitment industry the average reading time is 6 seconds. MAK
 Don’t waffle! In a snapshot, your core strengths should stand out.
 
 <h3>Make it targeted and keyword friendly</h3>
-Tailor your CV to the job you are applying to so keywords jump out at the reader. The job description will highlight key skills they want, so bold them, italic them, bullet them. This is the psychological game. Mention Ruby or Javascript loads, or both loads, depending on the job role. You’re getting into their heads even more. If you’re applying to a Python job, mention Python a lot Python standing out frequently across your CV. Also jobs board have machines that read your CV, so keywords matter.
+Tailor your CV to the job you are applying to so keywords jump out at the reader. The job description will highlight key skills they want, so **bold** them, or *italic* them, bullet them. This is the psychological game. **Mention Ruby or Javascript loads**, or both loads, depending on the job role. You’re getting into their heads even more. If you’re applying to a Python job, mention Python a lot. Get Python standing out frequently across your CV. Also jobs board have machines that read your CV, so keywords matter.
 
 <h3>Be confident</h3>
 Write with flair and be bold. Don’t be arrogant but do talk about your achievements. Remember you are trying to sell yourself after all. 
 
-
 <h1>Structure and Design</h1>
 
-Before you read further through the different sections of a CV, please take a look at these CVs here. These are real CVs from alumni but we have made changes to show false information for rights reasons. Take some time now to study the content, the keyword repetition, styling, layout and design. 
+Before you read further through the different sections and topics of a CV, please take a look at these CVs **here**. These are real CVs from alumni but we have made changes to show false information for rights reasons. Take some time now to study the content, the keyword repetition, styling, layout and design. 
 
-<h3>When looking at them, observe the following:</h3>
+<h3>When looking at the CVs, observe the following:</h3>
 
 * See how the personal summary is factual
 * The first half page or more is all about their coding experience 
-* Keywords such as Ruby and Javascript are mentioned multiple times 
+* Technical Keywords such as Ruby and Javascript are mentioned multiple times 
 * There’s clarity to the design, easy to read 
 * No waffle, to the point
 
-<h3>BEWARE: DO NOT COPY OR REPLICATE THESE CVS.</h3> There reason is that you will most likely come up against other Le Wagon alumni from your batch or another batch going for the same job. And if there’s a CV clash for a job vacancy the reader will immediately smell laziness from both of you. So start from scratch and be yourself. 
+<h3>BEWARE: DO NOT COPY OR REPLICATE THESE CVS.</h3> The reason is that you will most likely come up against other Le Wagon alumni from your batch or another batch going for the same job. If there’s a CV clash for a job vacancy the reader will immediately smell laziness from both of you. So start from scratch and be yourself. 
 
 
-There are endless CV designs out there and even the most basic looking CVs with the right content can be really effective. But try to work on the styling if you can. It shows you care and you’ve taken some time to make the reader’s experience a bit more enjoyable. By that we don’t mean you have to design something crazy in Sketch, it can still be in simple word format if you like, but make sure the layout and design is easy to read and easy on the eye. 
+There are endless CV designs out there and even the most basic looking CVs with absolutely zero personality, but the right content, can be really effective. But try to work on the styling if you can. It shows you care and you’ve taken some time to make the reader’s experience a bit more enjoyable. By that, we don’t mean you have to design something crazy in Sketch, it can still be in simple Word or Pages format if you like, but make sure the layout and design is easy to read and easy on the eye. 
 
 You will be up against other people for these jobs, so at least make some effort on the structure and design. 
 
@@ -81,11 +80,11 @@ Splitting it makes sense since you’ve just graduated from a coding a bootcamp.
 
 Under this title you can list that you have just attended Le Wagon and also any other coding courses or qualifications you my have. For example:
 
-~
+
 **Le Wagon London | Ruby on Rails Coding Bootcamp | London | Oct - Dec 2018**
 
 9 weeks, on-site, 10 hours a day coding bootcamp learning Ruby on **Rails, HTML5, CSS/Sass, Bootstrap, JavaScript, jQuery, SQL, PostgreSQL, MVC architecture, OOP, git, GitHub, and Heroku**
-~
+
 And under this you can also list your **“Web Development Projects”** or just **“Projects”**. As you wish. 
 
 <h3>Web Development Projects</h3>
