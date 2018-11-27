@@ -81,10 +81,11 @@ Splitting it makes sense since you’ve just graduated from a coding a bootcamp.
 
 Under this title you can list that you have just attended Le Wagon and also any other coding courses or qualifications you my have. For example:
 
-Le Wagon London | Ruby on Rails Coding Bootcamp | London | Oct - Dec 2018
-9 weeks, on-site, 10 hours a day coding bootcamp learning Ruby on Rails, HTML5, CSS/Sass, Bootstrap, JavaScript, jQuery, SQL, PostgreSQL, MVC architecture, OOP, git, GitHub, and Heroku
+**Le Wagon London | Ruby on Rails Coding Bootcamp | London | Oct - Dec 2018**
 
-And under this you can also list your “Web Development Projects” or just “Projects”. As you wish. 
+9 weeks, on-site, 10 hours a day coding bootcamp learning Ruby on **Rails, HTML5, CSS/Sass, Bootstrap, JavaScript, jQuery, SQL, PostgreSQL, MVC architecture, OOP, git, GitHub, and Heroku**
+
+And under this you can also list your **“Web Development Projects”** or just **“Projects”**. As you wish. 
 
 <h3>Web Development Projects</h3>
 In the last 3 weeks of Le Wagon you’ll build an Air Bnb Project and your final project. Not only do you have 2 real apps to show here, but again you can list more keywords and show you’ve worked in a team. Feel free to bold or italic the keywords depending on the design and styling of your CV:. For Example:
