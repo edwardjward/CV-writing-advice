@@ -15,16 +15,16 @@ A great CV will improve your chances of getting interviews much faster. Get that
 <h3>Keep it tidy</h3>
 Use headings and highlight key words with bold or italics. Use the space efficiently and don’t cram too much in. It’s good the leave the reader asking questions about you as well. 
 
-<h4>Keep it Concise</h4>
+<h3>Keep it Concise</h3>
 According to the recruitment industry the average reading time is 6 seconds. MAKE THEIR TIME COUNT!
 2 sides max. 1 side better
 Use bullets points or hyphens to separate important info from waffle
 Don’t waffle! In a snapshot, your core strengths should stand out
 
-<h4>Make it targeted and keyword friendly</h4>
+<h3>Make it targeted and keyword friendly</h3>
 Tailor your CV to the job you are applying to so keywords jump out at the reader. The job description will highlight key skills they want, so bold them, italic them, bullet them. This is the psychological game. Mention Ruby or Javascript loads, or both loads, depending on the job role. You’re getting into their heads even more. If you’re applying to a Python job, mention Python a lot Python standing out frequently across your CV. Also jobs board have machines that read your CV, so keywords matter.
 
-<h4>Be confident</h4>
+<h3>Be confident</h3>
 Write with flair and be bold. Don’t be arrogant but do talk about your achievements. Remember you are trying to sell yourself after all. 
 
 
@@ -32,7 +32,7 @@ Write with flair and be bold. Don’t be arrogant but do talk about your achieve
 
 Before you read further through the different sections of a CV, please take a look at these CVs here. These are real CVs from alumni but we have made changes to show false information for rights reasons. Take some time now to study the content, the keyword repetition, styling, layout and design. 
 
-<h4>When looking at them, observe the following:</h4>
+<h3>When looking at them, observe the following:</h3>
 
 * See how the personal summary is factual.
 * The first half page or more is all about their coding experience 
@@ -40,7 +40,7 @@ Before you read further through the different sections of a CV, please take a lo
 * There’s clarity to the design, easy to read 
 * No waffle, to the point
 
-<h4>BEWARE: DO NOT COPY OR REPLICATE THESE CVS.</h4> There reason is that you will most likely come up against other Le Wagon alumni from your batch or another batch going for the same job. And if there’s a CV clash for a job vacancy the reader will immediately smell laziness from both of you. So start from scratch and be yourself. 
+<h3>BEWARE: DO NOT COPY OR REPLICATE THESE CVS.</h3> There reason is that you will most likely come up against other Le Wagon alumni from your batch or another batch going for the same job. And if there’s a CV clash for a job vacancy the reader will immediately smell laziness from both of you. So start from scratch and be yourself. 
 
 There are endless CV designs out there and even the most basic looking CVs with the right content can be really effective. But try to work on the styling if you can. It shows you care and you’ve taken some time to make the reader’s experience a bit more enjoyable. By that we don’t mean you have to design something crazy in Sketch, it can still be in simple word format if you like, but make sure the layout and design is easy to read and easy on the eye. 
 
@@ -51,21 +51,21 @@ If you want to get really stylish with design, have a look here for inspiration 
 If you want to stick to a more traditional and executive layout, have a look here - 
 https://www.myperfectcv.co.uk/build-cv/choose-template 
 
-<h4>Personal Details</h4>
+<h3>Personal Details</h3>
 Include first name, last name, phone number, email address, GithHub and Linked In. Keep your Github clean. These days there’s no need to include your date of birth or a photo. 
 
-<h4>Personal Summary</h4>
+<h3>Personal Summary</h3>
 At the beginning of a CV you are most likely to find a small paragraph of 2 or 3 sentences outlining your core strengths that highlight key skills, experience and character traits. 
 
 So either make it punchy or don’t have one at all. “I am motivated and work well in a team”. Anyone can say that. So back it up with fact. “Having worked in the financial services industry for 2 years I’ve project managed teams to deliver under strict and high-pressured conditions where quality, team-work and time management are critical”. Here we have hard facts. 
 
-<h4>Technical Skills</h4>
+<h3>Technical Skills</h3>
 Some people like to include their technical skills under their Personal Summary, and others at the bottom or down the side on a so called column. List these skills early. Get these words jumping out at the reader: RUBY, RAILS, HTML, CSS, JAVASCRIPT etc. Don’t rank yourself in each skillset, like “Ruby - beginner”, or “Ruby - 3 / 5”. Just don’t. No point. 
 
-<h4>Experience</h4>
+<h3>Experience</h3>
 If you have just finished school or university and have little to no work experience, keep reading this section, there’s some advice further down.
 
-Some people like to split the Experience section into 2 parts. 
+Some people like to split the **Experience** section into 2 parts. 
 
 1) Relevant Experience
 2) Other experience.
@@ -74,7 +74,9 @@ Others like to simpler list everything under “Experience”. As you wish.
 
 Splitting it makes sense since you’ve just graduated from a coding a bootcamp. Le Wagon and your projects is the most relevant experience when applying for a junior developer role. Let’s take a look. 
 
-1) Relevant experience - Under this title you can list that you have just attended Le Wagon and also any other coding courses or qualifications you my have. For example:
+**1) Relevant Experience**
+
+Under this title you can list that you have just attended Le Wagon and also any other coding courses or qualifications you my have. For example:
 
 Le Wagon London | Ruby on Rails Coding Bootcamp | London | Oct - Dec 2018
 9 weeks, on-site, 10 hours a day coding bootcamp learning Ruby on Rails, HTML5, CSS/Sass, Bootstrap, JavaScript, jQuery, SQL, PostgreSQL, MVC architecture, OOP, git, GitHub, and Heroku
@@ -97,15 +99,15 @@ All these projects above  can take a description of some sort followed by keywor
 
 Part of the Psychological game is listing. A list tells someone you’ve done a lot of projects. They don’t even have to read much because subconsciously there’s a lovely list in front of them with all these cool projects and great keywords.   
 
-2) Other Experience 
+**2) Other Experience**
 
 From here on you can revert back to the more conventional CV format. This is where you will actually start listing your work experience and / or previous jobs. If you’re keeping your CV to one page then you might want to list your experience just by company name, job title, city and date. Instead of going deeper into your roles within each job. It looks slicker this way and there’s less waffle and clutter on your CV. Unless of course all your previous experience is relevant to the job you’re applying to. So if you are applying to a fintech dev role and you’ve worked in a few finance based jobs, your role descriptions are relevant.
 
-<h1>Education / Hobbies / Volunteer Work</h4>
+<h1>Education / Hobbies / Volunteer Work</h1>
 
-Exactly where you list education on your CV can really depend on what education you have. For example, if you studied Maths at Oxford and got a top grade, shout about it. List your education at the top of your CV under your personal summary. High profile academic qualifications matter. As you know, coding is tough and it requires brain power and endless learning, so if you have fact to describe this,brag about it. But if you think your education isn’t that relevant, then list it at the bottom, underneath the section of Other Experience / Experience.
+Exactly where you list education on your CV can really depend on what education you have. For example, if you studied Maths at Oxford and got a top grade,or went to Buisiness School, have an MBA, a Masters, shout about it. In this instance list your education at the top of your CV under your personal summary. High profile academic qualifications matter. As you know, coding is tough and it requires brain power and endless learning, so if you have fact to describe this, brag about it. But if you think your education isn’t that relevant, then list it at the bottom, underneath the section of **Other Experience / Experience.**
 
-Hobbies and volunteer work show snapshot of your character and who you are. These sections really aren’t essential if you’re trying to save space, but they say a lot about someone.
+Hobbies and volunteer work show a snapshot of your character and who you are. These sections really aren’t essential if you’re trying to save space, but they say a lot about someone.
 
 <h1>If you have little to no previous experience</h1>
 
