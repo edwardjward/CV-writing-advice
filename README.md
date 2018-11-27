@@ -12,34 +12,34 @@ A great CV will improve your chances of getting interviews much faster. Get that
 
 <h2>Best Practices and Guidelines</h2>
 
-<h1>Keep it tidy</h2>
+<h4>Keep it tidy</h4>
 Use headings and highlight key words with bold or italics. Use the space efficiently and don’t cram too much in. It’s good the leave the reader asking questions about you as well. 
 
-<h2>Keep it Concise</h2>
+<h4>Keep it Concise</h4>
 According to the recruitment industry the average reading time is 6 seconds. MAKE THEIR TIME COUNT!
 2 sides max. 1 side better
 Use bullets points or hyphens to separate important info from waffle
 Don’t waffle! In a snapshot, your core strengths should stand out
 
-<h2>Make it targeted and keyword friendly</h2>
+<h4>Make it targeted and keyword friendly</h4>
 Tailor your CV to the job you are applying to so keywords jump out at the reader. The job description will highlight key skills they want, so bold them, italic them, bullet them. This is the psychological game. Mention Ruby or Javascript loads, or both loads, depending on the job role. You’re getting into their heads even more. If you’re applying to a Python job, mention Python a lot Python standing out frequently across your CV. Also jobs board have machines that read your CV, so keywords matter.
 
-<h2>Be confident</h2>
+<h4>Be confident</h4>
 Write with flair and be bold. Don’t be arrogant but do talk about your achievements. Remember you are trying to sell yourself after all. 
 
 
-<h2>Structure and Design</h2>
+<h4>Structure and Design</h4>
 
 Before you read further through the different sections of a CV, please take a look at these CVs here. These are real CVs from alumni but we have made changes to show false information for rights reasons. Take some time now to study the content, the keyword repetition, styling, layout and design. 
 
-<h2>When looking at them, observe the following:</h2>
+<h4>When looking at them, observe the following:</h4>
 * See how the personal summary is factual.
 * The first half page or more is all about their coding experience 
 * Keywords such as Ruby and Javascript are mentioned multiple times 
 * There’s clarity to the design, easy to read 
 * No waffle, to the point
 
-<h2>BEWARE: DO NOT COPY OR REPLICATE THESE CVS.</h2> There reason is that you will most likely come up against other Le Wagon alumni from your batch or another batch going for the same job. And if there’s a CV clash for a job vacancy the reader will immediately smell laziness from both of you. So start from scratch and be yourself. 
+<h4>BEWARE: DO NOT COPY OR REPLICATE THESE CVS.</h4> There reason is that you will most likely come up against other Le Wagon alumni from your batch or another batch going for the same job. And if there’s a CV clash for a job vacancy the reader will immediately smell laziness from both of you. So start from scratch and be yourself. 
 
 There are endless CV designs out there and even the most basic looking CVs with the right content can be really effective. But try to work on the styling if you can. It shows you care and you’ve taken some time to make the reader’s experience a bit more enjoyable. By that we don’t mean you have to design something crazy in Sketch, it can still be in simple word format if you like, but make sure the layout and design is easy to read and easy on the eye. 
 
