@@ -1,4 +1,4 @@
-<h1>Tips about preparing your CV for your first Junior Developer job</h1>
+<h1>Tips to prepare your CV for your first Junior Developer job</h1>
   
 There is no secret sauce to writing a CV, no standard format and no rules you must apply. But, there are guidelines that certain industries and job roles would prefer to see followed on your CV, or at least guidelines that will help you get into their heads and make them want to meet you. 
 
@@ -52,10 +52,10 @@ If you want to get really stylish with design, have a look here for inspiration 
 If you want to stick to a more traditional and executive layout, have a look here - 
 https://www.myperfectcv.co.uk/build-cv/choose-template
 
-<h2>Lets look at the structure and section</h2>
+<h2>Lets look at the structure and order of topics</h2>
 
 <h3>Personal Details</h3>
-Include first name, last name, phone number, email address, GithHub and Linked In. Keep your Github clean. These days there’s no need to include your date of birth or a photo. 
+Include first name, last name, phone number, email address, GithHub and Linked In. Keep your Github clean. These days there’s no need to include your date of birth or a photo but you can if you want.
 
 <h3>Personal Summary</h3>
 At the beginning of a CV you are most likely to find a small paragraph of 2 or 3 sentences outlining your core strengths that highlight key skills, experience and character traits. 
@@ -106,7 +106,7 @@ Part of the Psychological game is listing. A list tells someone you’ve done a 
 
 From here on you can revert back to the more conventional CV format. This is where you will actually start listing your work experience and / or previous jobs. If you’re keeping your CV to one page then you might want to list your experience just by company name, job title, city and date. Instead of going deeper into your roles within each job. It looks slicker this way and there’s less waffle and clutter on your CV. Unless of course all your previous experience is relevant to the job you’re applying to. So if you are applying to a fintech dev role and you’ve worked in a few finance based jobs, your role descriptions are relevant.
 
-<h1>Education / Hobbies / Volunteer Work</h1>
+<h3>Education / Hobbies / Volunteer Work</h3>
 
 Exactly where you list education on your CV can really depend on what education you have. For example, if you studied Maths at Oxford and got a top grade,or went to Buisiness School, have an MBA, a Masters, shout about it. In this instance list your education at the top of your CV under your personal summary. High profile academic qualifications matter. As you know, coding is tough and it requires brain power and endless learning, so if you have fact to describe this, brag about it. But if you think your education isn’t that relevant, then list it at the bottom, underneath the section of **Other Experience / Experience.**
 
