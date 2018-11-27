@@ -1,4 +1,4 @@
-<h1>Tips about preparing your CV for your first Junior Developer job</h1> 
+<h1>Tips about preparing your CV for your first Junior Developer job</h1>
   
 There is no secret sauce to writing a CV, no standard format and no rules you must apply. But, there are guidelines that certain industries and job roles would prefer to see followed on your CV, or at least guidelines that will help you get into their heads and make them want to meet you. 
 
@@ -17,9 +17,9 @@ Use headings and highlight key words with bold or italics. Use the space efficie
 
 <h3>Keep it Concise</h3>
 According to the recruitment industry the average reading time is 6 seconds. MAKE THEIR TIME COUNT!
-2 sides max. 1 side better
-Use bullets points or hyphens to separate important info from waffle
-Don’t waffle! In a snapshot, your core strengths should stand out
+2 sides max. 1 side better. Use bullets points or hyphens to separate important info from waffle.
+
+Don’t waffle! In a snapshot, your core strengths should stand out.
 
 <h3>Make it targeted and keyword friendly</h3>
 Tailor your CV to the job you are applying to so keywords jump out at the reader. The job description will highlight key skills they want, so bold them, italic them, bullet them. This is the psychological game. Mention Ruby or Javascript loads, or both loads, depending on the job role. You’re getting into their heads even more. If you’re applying to a Python job, mention Python a lot Python standing out frequently across your CV. Also jobs board have machines that read your CV, so keywords matter.
@@ -34,7 +34,7 @@ Before you read further through the different sections of a CV, please take a lo
 
 <h3>When looking at them, observe the following:</h3>
 
-* See how the personal summary is factual.
+* See how the personal summary is factual
 * The first half page or more is all about their coding experience 
 * Keywords such as Ruby and Javascript are mentioned multiple times 
 * There’s clarity to the design, easy to read 
