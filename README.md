@@ -8,7 +8,7 @@ So please take time writing your CV.  Like a web product, you feel there are alw
 
 <h1>Lets Go</h1>
 
-A great CV will improve your chances of getting interviews much faster. Get that first half page nailed! Your first half page, or more, needs to stand out with the right information to hook the reader and leave them thinking “I really want to interview this candidate”. 
+A great CV will improve your chances of getting interviews much faster. Get that first half page nailed! Your first half page, or more, needs to stand out with the right information to hook the reader and leave them thinking “I really want to interview this candidate”. So clearly this is goingt to be filled with the most relevant information regarding a job a Junior Developer...your bootcamp, tech skills, projects and any other coding expreience.
 
 <h1>Best Practices and Guidelines</h1>
 
