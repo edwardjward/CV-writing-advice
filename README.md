@@ -50,7 +50,9 @@ You will be up against other people for these jobs, so at least make some effort
 If you want to get really stylish with design, have a look here for inspiration  - https://dribbble.com/tags/resume 
 
 If you want to stick to a more traditional and executive layout, have a look here - 
-https://www.myperfectcv.co.uk/build-cv/choose-template 
+https://www.myperfectcv.co.uk/build-cv/choose-template
+
+<h2>Lets look at the structure and section</h2>
 
 <h3>Personal Details</h3>
 Include first name, last name, phone number, email address, GithHub and Linked In. Keep your Github clean. These days there’s no need to include your date of birth or a photo. 
@@ -84,7 +86,7 @@ Le Wagon London | Ruby on Rails Coding Bootcamp | London | Oct - Dec 2018
 
 And under this you can also list your “Web Development Projects” or just “Projects”. As you wish. 
 
-<h4>Web Development Projects</h4>
+<h3>Web Development Projects</h3>
 In the last 3 weeks of Le Wagon you’ll build an Air Bnb Project and your final project. Not only do you have 2 real apps to show here, but again you can list more keywords and show you’ve worked in a team. Feel free to bold or italic the keywords depending on the design and styling of your CV:. For Example:
 
 **On Top** - a multiplayer tennis tournament generation app: built with **JavaScript, Ruby on Rails, Ajax, HTML and CSS whilst also working as a team on Github/Heroku**. 
