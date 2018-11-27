@@ -28,11 +28,12 @@ Tailor your CV to the job you are applying to so keywords jump out at the reader
 Write with flair and be bold. Don’t be arrogant but do talk about your achievements. Remember you are trying to sell yourself after all. 
 
 
-<h4>Structure and Design</h4>
+<h1>Structure and Design</h1>
 
 Before you read further through the different sections of a CV, please take a look at these CVs here. These are real CVs from alumni but we have made changes to show false information for rights reasons. Take some time now to study the content, the keyword repetition, styling, layout and design. 
 
 <h4>When looking at them, observe the following:</h4>
+
 * See how the personal summary is factual.
 * The first half page or more is all about their coding experience 
 * Keywords such as Ruby and Javascript are mentioned multiple times 
@@ -50,18 +51,18 @@ If you want to get really stylish with design, have a look here for inspiration 
 If you want to stick to a more traditional and executive layout, have a look here - 
 https://www.myperfectcv.co.uk/build-cv/choose-template 
 
-Personal Details
+<h4>Personal Details</h4>
 Include first name, last name, phone number, email address, GithHub and Linked In. Keep your Github clean. These days there’s no need to include your date of birth or a photo. 
 
-Personal Summary 
+<h4>Personal Summary</h4>
 At the beginning of a CV you are most likely to find a small paragraph of 2 or 3 sentences outlining your core strengths that highlight key skills, experience and character traits. 
 
 So either make it punchy or don’t have one at all. “I am motivated and work well in a team”. Anyone can say that. So back it up with fact. “Having worked in the financial services industry for 2 years I’ve project managed teams to deliver under strict and high-pressured conditions where quality, team-work and time management are critical”. Here we have hard facts. 
 
-Technical Skills
+<h4>Technical Skills</h4>
 Some people like to include their technical skills under their Personal Summary, and others at the bottom or down the side on a so called column. List these skills early. Get these words jumping out at the reader: RUBY, RAILS, HTML, CSS, JAVASCRIPT etc. Don’t rank yourself in each skillset, like “Ruby - beginner”, or “Ruby - 3 / 5”. Just don’t. No point. 
 
-Experience
+<h4>Experience</h4>
 If you have just finished school or university and have little to no work experience, keep reading this section, there’s some advice further down.
 
 Some people like to split the Experience section into 2 parts. 
@@ -80,19 +81,19 @@ Le Wagon London | Ruby on Rails Coding Bootcamp | London | Oct - Dec 2018
 
 And under this you can also list your “Web Development Projects” or just “Projects”. As you wish. 
 
-Web Development Projects 
+<h4>Web Development Projects</h4>
 In the last 3 weeks of Le Wagon you’ll build an Air Bnb Project and your final project. Not only do you have 2 real apps to show here, but again you can list more keywords and show you’ve worked in a team. Feel free to bold or italic the keywords depending on the design and styling of your CV:. For Example:
 
-On Top - a multiplayer tennis tournament generation app: built with JavaScript, Ruby on Rails, Ajax, HTML and CSS whilst also working as a team on Github/Heroku”. 
+**On Top** - a multiplayer tennis tournament generation app: built with **JavaScript, Ruby on Rails, Ajax, HTML and CSS whilst also working as a team on Github/Heroku**. 
 
 You also have other projects if you need to fill space: 
 
-Mister Cocktail
+**Mister Cocktail
 Landing page / personal website
 Food Delivery
-Cookbook
+Cookbook**
 
-All these can take a description of some sort followed by keywords. Maybe choose your top 3 to save space. 
+All these projects above  can take a description of some sort followed by keywords. Maybe choose your top 3 to save space. 
 
 Part of the Psychological game is listing. A list tells someone you’ve done a lot of projects. They don’t even have to read much because subconsciously there’s a lovely list in front of them with all these cool projects and great keywords.   
 
@@ -100,13 +101,14 @@ Part of the Psychological game is listing. A list tells someone you’ve done a 
 
 From here on you can revert back to the more conventional CV format. This is where you will actually start listing your work experience and / or previous jobs. If you’re keeping your CV to one page then you might want to list your experience just by company name, job title, city and date. Instead of going deeper into your roles within each job. It looks slicker this way and there’s less waffle and clutter on your CV. Unless of course all your previous experience is relevant to the job you’re applying to. So if you are applying to a fintech dev role and you’ve worked in a few finance based jobs, your role descriptions are relevant.
 
-Education / Hobbies / Volunteer Work
+<h1>Education / Hobbies / Volunteer Work</h4>
 
 Exactly where you list education on your CV can really depend on what education you have. For example, if you studied Maths at Oxford and got a top grade, shout about it. List your education at the top of your CV under your personal summary. High profile academic qualifications matter. As you know, coding is tough and it requires brain power and endless learning, so if you have fact to describe this,brag about it. But if you think your education isn’t that relevant, then list it at the bottom, underneath the section of Other Experience / Experience.
 
 Hobbies and volunteer work show snapshot of your character and who you are. These sections really aren’t essential if you’re trying to save space, but they say a lot about someone.
 
-If you have little to no previous experience
+<h1>If you have little to no previous experience</h1>
+
 That’s fine. The great thing about the coding industry and finding your first developer job is that everyone is junior. And as you know, people are of varying coding abilities, and what ultimately matters is how good you are at coding. Not how many years experience you have working in a professional or commercial environment. However, having experience does help. But if you’ve got little to none, list the little experience you do have. Whether it be bar, hotel or restaurant work. It shows you’ve got at least some team, client and commercial experience to some extent. If you have absolutely none at all, don’t worry, I’m most cases that’s understandable and you’ve probably just left school. 
 
 And to go back to the earlier point, your first half page is what really matters: your coding experience. 
