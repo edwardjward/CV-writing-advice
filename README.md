@@ -42,6 +42,7 @@ Before you read further through the different sections of a CV, please take a lo
 
 <h3>BEWARE: DO NOT COPY OR REPLICATE THESE CVS.</h3> There reason is that you will most likely come up against other Le Wagon alumni from your batch or another batch going for the same job. And if there’s a CV clash for a job vacancy the reader will immediately smell laziness from both of you. So start from scratch and be yourself. 
 
+
 There are endless CV designs out there and even the most basic looking CVs with the right content can be really effective. But try to work on the styling if you can. It shows you care and you’ve taken some time to make the reader’s experience a bit more enjoyable. By that we don’t mean you have to design something crazy in Sketch, it can still be in simple word format if you like, but make sure the layout and design is easy to read and easy on the eye. 
 
 You will be up against other people for these jobs, so at least make some effort on the structure and design. 
