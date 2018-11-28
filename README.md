@@ -62,7 +62,7 @@ At the beginning of a CV you are most likely to find a small paragraph of 2 or 3
 So either make it punchy or don’t have one at all. “I am motivated and work well in a team”. Anyone can say that. So back it up with fact. “Having worked in the financial services industry for 2 years I’ve project managed teams to deliver under strict and high-pressured conditions where quality, team-work and time management are critical”. Here we have hard facts. 
 
 <h3>Technical Skills</h3>
-Some people like to include their technical skills under their Personal Summary, and others at the bottom or down the side on a so called column. List these skills early. Get these words jumping out at the reader: RUBY, RAILS, HTML, CSS, JAVASCRIPT etc. Don’t rank yourself in each skillset, like “Ruby - beginner”, or “Ruby - 3 / 5”. Just don’t. No point. 
+Some people like to include their technical skills under their Personal Summary, and others at the bottom or down the side on a so called column. List these skills early. Get these words jumping out at the reader: **RUBY, RAILS, HTML, CSS, JAVASCRIPT** etc. Don’t rank yourself in each skillset, like “Ruby - beginner”, or “Ruby - 3 / 5”. Just don’t. No point putting yourself in a box. 
 
 <h3>Experience</h3>
 If you have just finished school or university and have little to no work experience, keep reading this section, there’s some advice further down.
