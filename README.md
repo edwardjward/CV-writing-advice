@@ -1,6 +1,6 @@
 <h1>Tips to prepare your CV for your first Junior Developer job</h1>
   
-> There is no secret sauce to writing a CV, no standard format and no rules you must apply. But, there are guidelines that certain industries and job roles would prefer to see followed on your CV, or at least guidelines that will help you get into their heads and make them want to meet you. 
+There is no secret sauce to writing a CV, no standard format and no rules you must apply. But, there are guidelines that certain industries and job roles would prefer to see followed on your CV, or at least guidelines that will help you get into their heads and make them want to meet you. 
 
 Writing a CV is as much a psychological game as it is a story of your career. It’s psychological because you are essentially selling yourself from a piece of paper, you have to make the readers time count, more often than not, whilst competing against others who may be in a stronger position than you. 
 
@@ -82,9 +82,8 @@ Splitting it makes sense since you’ve just graduated from a coding a bootcamp.
 Under this title you can list that you have just attended Le Wagon and also any other coding courses or qualifications you my have. For example:
 
 
-```**Le Wagon London | Ruby on Rails Coding Bootcamp | London | Oct - Dec 2018**
-
-9 weeks, on-site, 10 hours a day coding bootcamp learning Ruby on **Rails, HTML5, CSS/Sass, Bootstrap, JavaScript, jQuery, SQL, PostgreSQL, MVC architecture, OOP, git, GitHub, and Heroku**```
+> **Le Wagon London | Ruby on Rails Coding Bootcamp | London | Oct - Dec 2018**
+9 weeks, on-site, 10 hours a day coding bootcamp learning Ruby on **Rails, HTML5, CSS/Sass, Bootstrap, JavaScript, jQuery, SQL, PostgreSQL, MVC architecture, OOP, git, GitHub, and Heroku**
 
 And under this you can also list your **“Web Development Projects”** or just **“Projects”**. As you wish. 
 
