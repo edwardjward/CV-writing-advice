@@ -57,11 +57,10 @@ https://www.myperfectcv.co.uk/build-cv/choose-template
 Include first name, last name, phone number, email address, GithHub and Linked In. Keep your Github clean. These days there’s no need to include your date of birth or a photo but you can if you want.
 
 <h3>Personal Summary</h3>
-At the beginning of a CV you are most likely to find a small paragraph of 2 or 3 sentences outlining your core strengths that highlight key skills, experience and character traits.   
+<p>At the beginning of a CV you are most likely to find a small paragraph of 2 or 3 sentences outlining your core strengths that highlight key skills, experience and character traits.</p>
+    
 
-
-
-So either make it punchy or don’t have one at all. “I am motivated and work well in a team”. Anyone can say that. So back it up with fact. “Having worked in the financial services industry for 2 years I’ve project managed teams to deliver under strict and high-pressured conditions where quality, team-work and time management are critical”. Here we have hard facts. 
+<p>So either make it punchy or don’t have one at all. “I am motivated and work well in a team”. Anyone can say that. So back it up with fact. “Having worked in the financial services industry for 2 years I’ve project managed teams to deliver under strict and high-pressured conditions where quality, team-work and time management are critical”. Here we have hard facts.</p> 
 
 <h3>Technical Skills</h3>
 Some people like to include their technical skills under their Personal Summary, and others at the bottom or down the side on a so called column. List these skills early. Get these words jumping out at the reader: **RUBY, RAILS, HTML, CSS, JAVASCRIPT** etc. Don’t rank yourself in each skillset, like “Ruby - beginner”, or “Ruby - 3 / 5”. Just don’t. No point putting yourself in a box. 
