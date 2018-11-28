@@ -83,7 +83,8 @@ Under this title you can list that you have just attended Le Wagon and also any 
 
 
 > **Le Wagon London | Ruby on Rails Coding Bootcamp | London | Oct - Dec 2018**
-9 weeks, on-site, 10 hours a day coding bootcamp learning Ruby on **Rails, HTML5, CSS/Sass, Bootstrap, JavaScript, jQuery, SQL, PostgreSQL, MVC architecture, OOP, git, GitHub, and Heroku**
+
+> 9 weeks, on-site, 10 hours a day coding bootcamp learning Ruby on **Rails, HTML5, CSS/Sass, Bootstrap, JavaScript, jQuery, SQL, PostgreSQL, MVC architecture, OOP, git, GitHub, and Heroku**
 
 And under this you can also list your **“Web Development Projects”** or just **“Projects”**. As you wish. 
 
