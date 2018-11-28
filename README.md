@@ -58,7 +58,7 @@ Include first name, last name, phone number, email address, GithHub and Linked I
 
 <h3>Personal Summary</h3>
 At the beginning of a CV you are most likely to find a small paragraph of 2 or 3 sentences outlining your core strengths that highlight key skills, experience and character traits. 
-<br>
+</br>
 
 So either make it punchy or don’t have one at all. “I am motivated and work well in a team”. Anyone can say that. So back it up with fact. “Having worked in the financial services industry for 2 years I’ve project managed teams to deliver under strict and high-pressured conditions where quality, team-work and time management are critical”. Here we have hard facts. 
 
