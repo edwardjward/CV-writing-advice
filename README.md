@@ -94,10 +94,10 @@ In the last 3 weeks of Le Wagon you’ll build an Air Bnb Project and your final
 
 You also have other projects if you need to fill space: 
 
-**Mister Cocktail
-Landing page / personal website
-Food Delivery
-Cookbook**
+* Mister Cocktail
+* Landing page / personal website
+* Food Delivery
+* Cookbook
 
 All these projects above  can take a description of some sort followed by keywords. Maybe choose your top 3 to save space. 
 
