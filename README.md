@@ -53,7 +53,7 @@ You will be up against other people for these jobs, so at least make some effort
 <h2>Lets look at the structure and order of topics</h2>
 
 <h3>Personal Details</h3>
-Include first name, last name, phone number, email address, GithHub and Linked In. Keep your Github clean. These days there’s no need to include your date of birth or a photo but you can if you want.
+Include first name, last name, phone number, email address, GithHub and Linked In. Some people don't like to put their actual address and prefer to just reference their City, or City and Zip Code. Keep your Github clean. These days there’s no need to include your date of birth or a photo but you can if you want.
 
 <h3>Personal Summary</h3>
 <p>At the beginning of a CV you are most likely to find a small paragraph of 2 or 3 sentences outlining your core strengths that highlight key skills, experience and character traits.</p>
