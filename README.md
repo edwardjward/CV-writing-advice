@@ -70,10 +70,10 @@ If you have just finished school or university and have little to no work experi
 
 Some people like to split the **Experience** section into 2 parts. 
 
-1) Relevant Experience
-2) Other experience.
+1) **Relevant Experience**,
+2) either **Other Experience, Employment, Professional Experience**.
 
-Others like to simpler list everything under “Experience”. As you wish. 
+Others like to simply list everything under “Experience”, inlcuding Le Wagon, projects, employment. As you wish. 
 
 Splitting it makes sense since you’ve just graduated from a coding a bootcamp. Le Wagon and your projects is the most relevant experience when applying for a junior developer role. Let’s take a look. 
 
@@ -89,7 +89,7 @@ And under this you can also list your **“Web Development Projects”** or just
 <h3>Web Development Projects</h3>
 In the last 3 weeks of Le Wagon you’ll build an Air Bnb Project and your final project. Not only do you have 2 real apps to show here, but again you can list more keywords and show you’ve worked in a team. Feel free to bold or italic the keywords depending on the design and styling of your CV:. For Example:
 
-**On Top** - a multiplayer tennis tournament generation app: built with **JavaScript, Ruby on Rails, Ajax, HTML and CSS whilst also working as a team on Github/Heroku**. 
+>**On Top** - a multiplayer tennis tournament generation app: built with **JavaScript, Ruby on Rails, Ajax, HTML and CSS whilst also working as a team on Github/Heroku**. 
 
 You also have other projects if you need to fill space: 
 
@@ -102,9 +102,11 @@ All these projects above  can take a description of some sort followed by keywor
 
 Part of the Psychological game is listing. A list tells someone you’ve done a lot of projects. They don’t even have to read much because subconsciously there’s a lovely list in front of them with all these cool projects and great keywords.   
 
-**2) Other Experience**
+**2) Professional Experience / Other Experience / Employment**
 
-From here on you can revert back to the more conventional CV format. This is where you will actually start listing your work experience and / or previous jobs. If you’re keeping your CV to one page then you might want to list your experience just by company name, job title, city and date. Instead of going deeper into your roles within each job. It looks slicker this way and there’s less waffle and clutter on your CV. Unless of course all your previous experience is relevant to the job you’re applying to. So if you are applying to a fintech dev role and you’ve worked in a few finance based jobs, your role descriptions are relevant.
+From here on you can revert back to the more conventional CV format. This is where you will actually start listing your work experience and / or previous jobs. People like to refer to it with various headings, such as Professional Experience, Emlpoyment or even just Other Experience. 
+
+If you’re keeping your CV to one page then you might want to list your experience just by company name, job title, city and date. Instead of going deeper into your roles within each job. It looks slicker this way and there’s less waffle and clutter on your CV. Unless of course all your previous experience is relevant to the job you’re applying to. So if you are applying to a fintech dev role and you’ve worked in a few finance based jobs, your role descriptions are relevant.
 
 <h3>Education / Hobbies / Volunteer Work</h3>
 
