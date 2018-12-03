@@ -13,11 +13,10 @@ A great CV will improve your chances of getting interviews much faster. **Get th
 <h1>Best Practices and Guidelines</h1>
 
 <h3>Keep it tidy</h3>
-Use headings and highlight key words with **bold** or _italics_. Use the space efficiently and don’t cram too much in. It’s good to the leave the reader asking questions about you as well. 
+Use headings and highlight key words with **bold** or *italics*. Use the space efficiently and don’t cram too much in. It’s good to the leave the reader asking questions about you as well. 
 
 <h3>Keep it Concise</h3>
-According to the recruitment industry the average reading time is 6 seconds. MAKE THEIR TIME COUNT!
-2 sides max. 1 side better. Use bullets points or hyphens to separate important info from waffle.
+According to the recruitment industry the average reading time is 6 seconds. MAKE THE READER'S TIME COUNT! Two sides max. One side better. Use bullets points or hyphens to separate important info from waffle.
 
 Don’t waffle! In a snapshot, your core strengths should stand out.
 
