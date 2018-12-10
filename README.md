@@ -118,3 +118,6 @@ Hobbies and volunteer work show a snapshot of your character and who you are. Th
 That’s fine. The great thing about the coding industry and finding your first developer job is that everyone is junior. And as you know, people are of varying coding abilities, and what ultimately matters is how good you are at coding. Not how many years experience you have working in a professional or commercial environment. However, having experience does help. But if you’ve got little to none, list the little experience you do have. Whether it be bar, hotel or restaurant work. It shows you’ve got at least some team, client and commercial experience to some extent. If you have absolutely none at all, don’t worry, I’m most cases that’s understandable and you’ve probably just left school. 
 
 And to go back to the earlier point, your first half page is what really matters: your coding experience. 
+
+Use headings and highlight key words with **bold** or *italics*. Use the space efficiently and don’t cram too much in. It’s good to the leave the reader asking questions about you as well. 
+
