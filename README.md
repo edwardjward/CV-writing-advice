@@ -42,7 +42,7 @@ Before you read further through the different sections and topics of a CV, pleas
 The reason is that you will most likely come up against other Le Wagon alumni from your batch or another batch going for the same job. If there’s a CV clash for a job vacancy the reader will immediately smell laziness from both of you. So start from scratch and be yourself.
 
 
-There are endless CV designs out there and even the most basic looking CVs with absolutely zero personality, but the right content, can be really effective. But try to work on the styling if you can. It shows you care and you’ve taken some time to make the reader’s experience a bit more enjoyable. By that, we don’t mean you have to design something crazy in Sketch, it can still be in simple Word or Pages format if you like, but make sure the layout and design is easy to read and easy on the eye.
+<p></p>There are endless CV designs out there and even the most basic looking CVs with absolutely zero personality, but the right content, can be really effective. But try to work on the styling if you can. It shows you care and you’ve taken some time to make the reader’s experience a bit more enjoyable. By that, we don’t mean you have to design something crazy in Sketch, it can still be in simple Word or Pages format if you like, but make sure the layout and design is easy to read and easy on the eye.
 
 You will be up against other people for these jobs, so at least make some effort on the structure and design.
 
@@ -67,7 +67,7 @@ Some people like to include their technical skills under their Personal Summary,
 
 ### Experience
 If you have just finished school or university and have little to no work experience, keep reading this section, there’s some advice further down.
-
+<p></p>
 Some people like to split the **Experience** section into 2 parts.
 
 1) **Relevant Experience**,
@@ -88,7 +88,7 @@ And under this you can also list your **“Web Development Projects”** or just
 
 ### Web Development Projects
 In the last 3 weeks of Le Wagon you’ll build an Air Bnb Project and your final project. Not only do you have 2 real apps to show here, but again you can list more keywords and show you’ve worked in a team. Feel free to bold or italic the keywords depending on the design and styling of your CV. For Example:
-
+<p></p>
 >**On Top** - a multiplayer tennis tournament generation app: built with **JavaScript, Ruby on Rails, Ajax, HTML and CSS whilst also working as a team on Github/Heroku**.
 
 You also have other projects if you need to fill space:
