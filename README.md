@@ -66,7 +66,8 @@ Include first name, last name, phone number, email address, GithHub and Linked I
 Some people like to include their technical skills under their Personal Summary, and others at the bottom or down the side on a so called column. List these skills early. Get these words jumping out at the reader: **RUBY, RAILS, HTML, CSS, JAVASCRIPT** etc. Don’t rank yourself in each skillset, like “Ruby - beginner”, or “Ruby - 3 / 5”. Just don’t. No point putting yourself in a box.
 
 ### Experience
-If you have just finished school or university and have little to no work experience, keep reading this section, there’s some advice further down.
+If you have just finished school or university and have little to no work experience, keep reading this section, there’s some advice further down under **If you have little to no previous experience**
+
 <p></p>
 Some people like to split the **Experience** section into 2 parts.
 
