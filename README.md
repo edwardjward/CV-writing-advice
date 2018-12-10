@@ -66,7 +66,7 @@ Some people like to include their technical skills under their Personal Summary,
 
 <h3>Experience</h3>
 If you have just finished school or university and have little to no work experience, keep reading this section, there’s some advice further down.
-
+<p></p>
 Some people like to split the **Experience** section into 2 parts.
 
 1) **Relevant Experience**,
