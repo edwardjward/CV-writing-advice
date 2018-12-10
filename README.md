@@ -87,7 +87,7 @@ And under this you can also list your **“Web Development Projects”** or just
 
 <h3>Web Development Projects</h3>
 In the last 3 weeks of Le Wagon you’ll build an Air Bnb Project and your final project. Not only do you have 2 real apps to show here, but again you can list more keywords and show you’ve worked in a team. Feel free to bold or italic the keywords depending on the design and styling of your CV. For Example:
-
+<p></p>
 >**On Top** - a multiplayer tennis tournament generation app: built with **JavaScript, Ruby on Rails, Ajax, HTML and CSS whilst also working as a team on Github/Heroku**.
 
 You also have other projects if you need to fill space:
