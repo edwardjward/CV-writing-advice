@@ -119,9 +119,14 @@ That’s fine. The great thing about the coding industry and finding your first 
 
 And to go back to the earlier point, your first half page is what really matters: your coding experience. 
 
+<h1>Best Practicies</h1>
 
 <h3>Keep it tidy</h3>
 Use headings and highlight key words with **bold** or *italics*. Use the space efficiently and don’t cram too much in. It’s good to the leave the reader asking questions about you as well. 
+
+
+<h3>Keep it tidy</h3>
+
 
 <h3>Keep it Concise</h3>
 According to the recruitment industry the average reading time is 6 seconds. MAKE THE READER'S TIME COUNT! Two sides max. One side better. Use bullets points or hyphens to separate important info from waffle.
