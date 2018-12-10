@@ -119,7 +119,6 @@ That’s fine. The great thing about the coding industry and finding your first 
 
 And to go back to the earlier point, your first half page is what really matters: your coding experience. 
 
-<h1>Best Practices and Guidelines</h1>
 
 <h3>Keep it tidy</h3>
 Use headings and highlight key words with **bold** or *italics*. Use the space efficiently and don’t cram too much in. It’s good to the leave the reader asking questions about you as well. 
