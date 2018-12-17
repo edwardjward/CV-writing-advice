@@ -80,7 +80,7 @@ Splitting it makes sense since you’ve just graduated from a coding a bootcamp.
 
 **1) Relevant Experience**
 
-Under this title you can list that you have just attended Le Wagon and also any other coding courses or qualifications you my have. For example:
+Under this title you can list that you have just attended Le Wagon and also any other coding courses or qualifications you may have. For example:
 
 > **Le Wagon London | Ruby on Rails Coding Bootcamp | London | Oct - Dec 2018**
 >9 weeks, on-site, 10 hours a day coding bootcamp learning Ruby on **Rails, HTML5, CSS/Sass, Bootstrap, JavaScript, jQuery, SQL, PostgreSQL, MVC architecture, OOP, git, GitHub, and Heroku**
@@ -90,7 +90,7 @@ And under this you can also list your **“Web Development Projects”** or just
 ### Web Development Projects
 In the last 3 weeks of Le Wagon you’ll build an Air Bnb Project and your final project. Not only do you have 2 real apps to show here, but again you can list more keywords and show you’ve worked in a team. Feel free to bold or italic the keywords depending on the design and styling of your CV. For Example:
 <p></p>
->**On Top** - a multiplayer tennis tournament generation app: built with **JavaScript, Ruby on Rails, Ajax, HTML and CSS whilst also working as a team on Github/Heroku**.
+>**On Top** - a multiplayer tennis tournament generation app: built with **JavaScript, Ruby on Rails, Ajax, HTML and CSS**  whilst also working as a team on **Github/Heroku**.
 
 You also have other projects if you need to fill space:
 
@@ -105,15 +105,9 @@ Part of the psychological game is listing. A list tells someone you’ve done a 
 
 **2) Professional Experience / Other Experience / Employment**
 
-From here on you can revert back to the more conventional CV format. This is where you will actually start listing your work experience and / or previous jobs. People like to refer to it with various headings, such as *Professional Experience, Emlpoyment or even just Other Experience*.
+From here on you can revert back to the more conventional CV format. This is where you will actually start listing your work experience and / or previous jobs. People like to refer to it with various headings, such as **Professional Experience, Emlpoyment or even just Other Experience**.
 
-If you’re keeping your CV to one page then you might want to list your experience just by company name, job title, city and date. Instead of going deeper into your roles within each job. It looks slicker this way and there’s less waffle and clutter on your CV. Unless of course all your previous experience is relevant to the job you’re applying to. So if you are applying to a fintech dev role and you’ve worked in a few finance based jobs, your role descriptions are most probably very relevant.
-
-### Education / Hobbies / Volunteer Work
-
-Exactly where you list education on your CV can really depend on what education you have. For example, if you studied Maths at Oxford and got a top grade, or went to Buisiness School, have an MBA or a Masters, shout about it. In this instance you can list your education at the top of your CV under your personal summary. High profile academic qualifications matter. As you know, coding is tough and it requires brain power and endless learning, so if you have fact to describe this, brag about it. But if you think your education isn’t that relevant, then list it at the bottom of your CV. 
-
-Hobbies and volunteer work show a snapshot of your character and who you are. These sections really aren’t essential if you’re trying to save space, but they say a lot about someone.
+If you’re keeping your CV to one page then you might want to list your experience just by company name, job title, city and date. *Instead* of going deeper into your roles within each job. It looks slicker this way and there’s less waffle and clutter on your CV. Unless of course all your previous experience is relevant to the job you’re applying to. So if you are applying to a fintech dev role and you’ve worked in a few finance based jobs, your role descriptions are most probably very relevant.
 
 # If you have little to no previous experience
 
@@ -122,3 +116,15 @@ That’s fine. The great thing about the coding industry and finding your first 
 However, having experience does help. But if you’ve got little to none, list the little experience you do have. Whether it be bar, hotel or restaurant work. It shows you’ve got at least some team, client and commercial experience to some extent. If you have absolutely none at all, don’t worry, in most cases that’s understandable and you’ve probably just left school or university. It gives you a really good reason to code on other projects and continue working on your existing ones.
 
 And going back to one of the first points made in this article, **your first half page is what really matters: your coding experience.**
+
+### Education / Hobbies / Volunteer Work
+
+Exactly where you list education on your CV can really depend on what education you have. For example, if you studied Maths at Oxford and got a top grade, or went to Buisiness School, have an MBA or a Masters, shout about it. And if your academic strenghths lie in engineering, finance, sciences, software, Computer Science, programming etc, tell them about it early on your CV. In this instance you can list your education at the top of your CV under your personal summary. High profile academic qualifications matter. As you know, coding is tough and it requires brain power and endless learning, so if you have facts to prove, brag about it. But if you think your education isn’t that relevant, then list it at the bottom of your CV to save space at the top for more immediately relevant info. 
+
+Hobbies and volunteer work show a snapshot of your character and who you are. These sections really aren’t essential if you’re trying to save space, but if you can squeeze them in, they say a lot about someone and do no harm at all.
+
+### Conclusion 
+
+This should really help you prepare your CV for your first Junior Developer job application. Try to follow these guidelines if you can. We have seen a noticable increase in job interviews by adopting these techniques. 
+
+Aside from the CV writing, remember that you are full stack developers now and you are worth money! Be confident and bold and keep applying for jobs. **Also remember to keep coding! Keep your Github green!**
