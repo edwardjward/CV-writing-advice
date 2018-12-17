@@ -109,7 +109,7 @@ From here on you can revert back to the more conventional CV format. This is whe
 
 If you’re keeping your CV to one page then you might want to list your experience just by company name, job title, city and date. *Instead* of going deeper into your roles within each job. It looks slicker this way and there’s less waffle and clutter on your CV. Unless of course all your previous experience is relevant to the job you’re applying to. So if you are applying to a fintech dev role and you’ve worked in a few finance based jobs, your role descriptions are most probably very relevant.
 
-# If you have little to no previous experience
+### If you have little to no previous experience
 
 That’s fine. The great thing about the coding industry and finding your first developer job is that everyone is junior, regardless of any previous work experience. And as you know, people are of varying coding abilities and what ultimately matters is how good you are at coding. Not how many years experience you have working in a professional or commercial environment. 
 
