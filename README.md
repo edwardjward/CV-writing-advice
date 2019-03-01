@@ -28,7 +28,7 @@ Write with flair and be bold. Don’t be arrogant but do talk about your achieve
 
 # Structure and Design
 
-Before you read further through the different sections and topics of a CV, please [take a look at these CVs here] (https://drive.google.com/drive/folders/1TcOOXU-fQxib3WzJQnm8tPpTMAY-jK3o?usp=sharing). These are real CVs from alumni but we have made changes to show false information for rights reasons. Take some time now to study the content, the keyword repetition, styling, layout and design.
+Before you read further through the different sections and topics of a CV, please [take a look at these CVs here](https://drive.google.com/drive/folders/1TcOOXU-fQxib3WzJQnm8tPpTMAY-jK3o?usp=sharing). These are real CVs from alumni but we have made changes to show false information for rights reasons. Take some time now to study the content, the keyword repetition, styling, layout and design.
 
 ### When looking at the CVs, observe the following:
 
