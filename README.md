@@ -51,6 +51,7 @@ You will be up against other people for these jobs, so at least make some effort
 * [Dribbble](https://dribbble.com/tags/resume) - If you want to get really stylish with design
 * [My Perfect CV](https://www.myperfectcv.co.uk/build-cv/choose-template) - If you want to stick to a more traditional and executive layout
 * [Canva](https://www.canva.com/templates/resumes/) - Choose a template and edit in the browser
+* [Creddle](http://creddle.io/) - Traditional style CV templates with online editor 
 
 ## Lets look at the structure and order of topics
 
