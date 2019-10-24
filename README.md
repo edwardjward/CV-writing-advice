@@ -8,12 +8,12 @@ So please take time writing your CV.  Like a web product, you feel it's never pe
 
 # Lets Go
 
-A great CV will improve your chances of getting interviews much faster. **Nail the first half page!** Your first half page, or more, needs to stand out with the right information to hook the reader and leave them thinking *“I really want to interview this candidate”*. So clearly this is going to be filled with the most relevant information regarding a job as a Junior Developer...your bootcamp, tech skills, projects and any other coding expreience.
+A great CV will improve your chances of getting interviews much faster. **Nail the first half page!** Your first half page, or more, needs to stand out with the right information to hook the reader and leave them thinking *“I really want to interview this candidate”*. So clearly this is going to be filled with the most relevant information regarding a job as a Junior Developer...your bootcamp, tech skills, projects and any other coding experience.
 
 # Best Practices and Guidelines
 
 ### Keep it tidy
-Use headings and highlight key words with **bold** or _italics_. Use the space efficiently and don’t cram too much in. It’s good to the leave the reader asking questions about you as well, they'll want to make contact. 
+Use headings and highlight key words with **bold** or _italics_. Use the space efficiently and don’t cram too much in. It’s good to leave the reader asking questions about you as well, they'll want to make contact. 
 
 ### Keep it Concise
 According to the recruitment industry the average CV reading time is 6 seconds. **MAKE THE READER'S TIME COUNT!** Two sides max. One side better. Use bullets points or hyphens to separate important info from waffle.
@@ -28,7 +28,7 @@ Write with flair and be bold. Don’t be arrogant but do talk about your achieve
 
 # Structure and Design
 
-Before you read further through the different sections and topics of a CV, please [take a look at these CVs here](https://drive.google.com/drive/u/1/folders/1sXBSiqYf3rx-7eWvI1ojc7TZDhPiiwgS). These are real CVs from alumni but we have made changes to show false information for rights reasons. Take some time now to study the content, the keyword repetition, styling, layout and design. You will see two CVs that are pretty bland with zero design. The reason these are listed here is to prove that having the right content is the most important aspect. These two students received multiple interview requests within days of searching for jobs and secured jobs very, very quickly. It's not all down design. 
+Before you read further through the different sections and topics of a CV, please [take a look at these CVs here](https://drive.google.com/drive/u/1/folders/1sXBSiqYf3rx-7eWvI1ojc7TZDhPiiwgS). These are real CVs from alumni but we have made changes to show false information for obvious reasons. Take some time now to study the content, the keyword repetition, styling, layout and design. You will see two CVs that are pretty bland with zero design. The reason these are listed here is to prove that having the right content is the most important aspect. These two students received multiple interview requests within days of searching for jobs and secured jobs very, very quickly. It's not all down design. 
 
 ### When looking at the CVs, observe the following:
 
